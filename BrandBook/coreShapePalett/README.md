@@ -1,5 +1,7 @@
-# coreShapePalette
-## Definition and Philosophy
+# 🟦 🔵 🔺 🎨 Core Shape Palette
+
+## 🧐 Definition and Philosophy
+
 The name coreShapePalette is a reflection of the fundamental role that shapes play in design and creativity. The term "core" signifies the essential and foundational nature of the shapes included in this library, emphasizing their importance in various design applications.
 
 The word "Shape" highlights the versatility and adaptability of the forms, which can be transformed, combined, and manipulated to suit diverse creative needs.
